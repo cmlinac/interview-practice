@@ -1,2 +1,2 @@
 make clean: 
-	ls | grep -v "\." | xargs rmg
+	ls | grep -v "\." | grep -v "makefile" | xargs rm

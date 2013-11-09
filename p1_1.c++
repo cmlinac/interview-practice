@@ -21,3 +21,4 @@ int main() {
 	cout.setf(ios::boolalpha);
 	cout << isAllUniqueCharacters(s) << endl; 
 }
+
