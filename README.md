@@ -1,10 +1,10 @@
 Coding Interview Solutions
 ========================
 
-A collaboration of solutions for exercises in Cracking the Coding Interview by McDowell 
+A collaboration of solutions for exercises in Cracking the Coding Interview by McDowell and other practice code for technical interviews
 
-If you choose to add a solution, document the method with your name. Keep solutions to the same problem within one file, unless it uses another language. 
+If you choose to add a solution, submit the file to the correct folder by topic and put your name in header. 
 
-In the commit message, just write what problems you updated or added. 
+In the commit message, specify what problems you updated or added. 
 
-Happy programming! 
+Happy coding! 
