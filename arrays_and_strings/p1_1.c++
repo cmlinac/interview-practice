@@ -17,7 +17,7 @@ bool isAllUniqueCharacters(std::string s) {
 
 int main() {
 	using namespace std; 
-	string s = "thequickbrwnfxjmps"; 
+	string s = "thequickbrwnfxjmpsa"; 
 	cout.setf(ios::boolalpha);
 	cout << isAllUniqueCharacters(s) << endl; 
 }
